@@ -1,0 +1,23 @@
+James,
+
+Instructions:
+
+1. Download `decrypt.c` from:
+   https://github.com/RogieTheGreat/CS50/blob/main/decrypt.c
+
+2. Open Terminal in Windows.
+
+3. Type this in Terminal:
+
+   cd Downloads
+   gcc -o decrypt decrypt.c
+
+4. To run the program, type this:
+
+   ./decrypt 20070507
+
+   Note: 20070507 is the key.
+
+Here is the 10 AUD gift card if you decrypt it using the program:
+
+Bpngdc zp 10 PJS etidi hp qpcz prrdjci cv lxht. Qxvpn bd hpzxc QHQ_rdst pcs prrdjci cjbqtg. Tmpbeat hpzxc xh 211831338hpPrrdjciCjbqtg pcs QHQRdst774001. Bthhpvt bd hpzxcepvcpvtih bd. @##1234Epcvxi$xY3b$hWpWp
